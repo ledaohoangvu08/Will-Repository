@@ -1,1 +1,158 @@
-
+{
+  "schemaVersion": 1,
+  "identifier": "com.hoangvz.willrepo",
+  "name": "Will Repository",
+  "description": "Nguồn package 3105 của hoanqvz.",
+  "accentColor": "#ca9ee6",
+  "icon": "assets/repo-icon.png",
+  "packages": [
+    {
+      "identifier": "chest-fft",
+      "name": "CHEST - FFT",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "CHEST - FFT",
+      "description": "Package 3105 - CHEST - FFT.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire",
+        "OB55",
+        "AIM"
+      ],
+      "icon": "assets/chest-fft.png",
+      "download": "packages/AIM%20CHEST%20FFT%20-%20OB55.3105",
+      "sha256": "4000450feacbb9bc2088b4f68c2bd4427a4b68d82ebe564775d0dceb44fed761",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "neck-fft",
+      "name": "NECK - FFT",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "NECK - FFT",
+      "description": "Package 3105 - NECK - FFT.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire",
+        "OB55",
+        "AIM"
+      ],
+      "icon": "assets/neck-fft.png",
+      "download": "packages/AIM%20NECK%20FFT%20-%20OB55.3105",
+      "sha256": "ff8996d54db38739eba2782b1ad67600d6c87794f06634f1b0ef9e69a517cbcb",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "body-fft",
+      "name": "BODY - FFT",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "BODY - FFT",
+      "description": "Package 3105 - BODY - FFT.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire",
+        "OB55"
+      ],
+      "icon": "assets/body-fft.png",
+      "download": "packages/BODY%20FFT%20-%20OB55.3105",
+      "sha256": "91cc01d045b0ab1b0bc1bd7f7dadde3ea75c48082a8fd882bf598fd772751cf0",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "dinh-vi-fft",
+      "name": "ĐỊNH VỊ - FFT",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "ĐỊNH VỊ - FFT",
+      "description": "Package 3105 - ĐỊNH VỊ - FFT.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire",
+        "OB55"
+      ],
+      "icon": "assets/dinh-vi-fft.png",
+      "download": "packages/%C4%90%E1%BB%8Bnh%20V%E1%BB%8B%20FFT%20OB55.3105",
+      "sha256": "95d5905167c40267a1870735238d19ed6becb925c39a8badff4673c693d51817",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "fov-aim",
+      "name": "FOV - AIM",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "FOV - AIM",
+      "description": "Package 3105 - FOV - AIM.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire",
+        "OB55",
+        "AIM"
+      ],
+      "icon": "assets/fov-aim.png",
+      "download": "packages/FOV%20-%20AIM%20-%20OB55.3105",
+      "sha256": "d2e6c025ea447b8a3e3d580a781784d835c7bca0928a3fc769ed543e5fc17693",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "thap-cam",
+      "name": "THẬP CẨM",
+      "author": "hoanqvz",
+      "version": "OB55",
+      "summary": "THẬP CẨM",
+      "description": "Package 3105 - THẬP CẨM.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max",
+        "OB55",
+        "MOD"
+      ],
+      "icon": "assets/thap-cam.png",
+      "download": "packages/TH%E1%BA%ACP%20C%E1%BA%A8M%20FFM%20-%20OB55.3105",
+      "sha256": "21bef1496fde5c999350a187e6201b645b5dffc53c11641704d23013b73f1521",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
+    }
+  ]
+}
